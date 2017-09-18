@@ -1,1 +1,1 @@
-Image processing Projects with the help of OpenCV in python2 and MATLAB.
+Image processing Projects with the help of OpenCV in python 3 and MATLAB.
